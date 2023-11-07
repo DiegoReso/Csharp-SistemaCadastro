@@ -1,4 +1,4 @@
-# Sitema de Cadastro em C#
+# Sistema de Cadastro em C#
 
 Projeto dos meus estudos de C# realizado com windows forms e utilizando orientação a objetos.
 
