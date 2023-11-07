@@ -1,0 +1,16 @@
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\bin\Debug\net6.0-windows\SistemaDeCadastros.exe
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\bin\Debug\net6.0-windows\SistemaDeCadastros.deps.json
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\bin\Debug\net6.0-windows\SistemaDeCadastros.runtimeconfig.json
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\bin\Debug\net6.0-windows\SistemaDeCadastros.dll
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\bin\Debug\net6.0-windows\SistemaDeCadastros.pdb
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.Form1.resources
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.csproj.GenerateResource.cache
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.AssemblyInfo.cs
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.dll
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\refint\SistemaDeCadastros.dll
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.pdb
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\SistemaDeCadastros.genruntimeconfig.cache
+C:\Users\diego\Documents\workspace\SistemaDeCadastros\SistemaDeCadastros\obj\Debug\net6.0-windows\ref\SistemaDeCadastros.dll

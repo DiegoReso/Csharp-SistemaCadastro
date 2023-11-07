@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9/MhpyPqd3+G6U1f26YVl5mOlQmn3MrMRt4DbWuGQhheyj11r9jzjBr1LNNIzV3cv0aK4zMfdFphl7UwMzrZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\Documents\\workspace\\SistemaDeCadastros\\SistemaDeCadastros\\SistemaDeCadastros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
